@@ -13,7 +13,7 @@ var config = {
         clientId: '2',
         clientSecret: 'y0cRVJNMjAfHxB1Yvo8c09Ub8NtV70SgxHAts5a4',
         serverUrl: 'http://idrilluaa-alovx1zj.neuseer.cn',
-        redirect_uri: 'http://idrill.neuseer.cn/callback',
+        redirect_uri: 'http://drillrmd.neuseer.cn/callback',
         defaultClientRoute: '/about'
 
     },
